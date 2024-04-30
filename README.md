@@ -11,7 +11,7 @@ To view the projects and code samples in this repository:
 Clone the repository:
 
 Copy code
-git clone https://github.com/your-username/portfolio-project.git
+git clone https://github.com/SouravGupta778/PORTFOLIO.git
 Open the project folders and explore the code.
 
 Contact Me
